@@ -1,0 +1,17 @@
+:root {
+  --Black: #000000;
+  --White: #ffffff;
+  --Orange: #fba919;
+  --Blue: #0267c1;
+  --Red: #ca3c25;
+  --Brown: #2a0800;
+  --Charcoal: #2e5266;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
